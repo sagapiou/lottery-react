@@ -1,6 +1,6 @@
 import web3 from "./web3";
 
-const address = '0xc34994ecCDbB71d99b4eac90C7FA14a9BEB908E3';
+const address = 'pass her ethe cntract address';
 const abi = [
   {
     inputs: [],
