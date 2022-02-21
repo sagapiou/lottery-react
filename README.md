@@ -1,3 +1,8 @@
+# lottery-react
+Ethereum and Solidity: The Complete Developer's Guide
+
+Working version of the lottery-react app that communicated with the lottery contract. Personal comments inside the app fileand all components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
